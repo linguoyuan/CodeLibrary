@@ -1,9 +1,3 @@
-﻿/**
-* FileName:     EventManager.cs
-* Author:       LGY
-* CreateTime:   2019/04/04 15:49:53
-* Description:  自定义的事件派发类
-*/
 using System;
 using System.Collections;
 using System.Collections.Generic;
