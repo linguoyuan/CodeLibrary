@@ -12,6 +12,10 @@ unity自带的协程和Update都可以做延时，但这个延时类不依赖于
  * ##### [FindHelper.cs](https://github.com/linguoyuan/CodeLibrary/blob/master/03_ToolsHelper/FindHelper.cs)
          unity自带的查找子物体无法往更深层次查找，或者从某个节点找，全局查找又太耗性能。
          这个类采用递归方法实现更高效率查找物体或者组件。
+         
+#### * [04_StateMachine](https://github.com/linguoyuan/CodeLibrary/tree/master/04_StateMachine)
+简单的状态机类，分为状态机控制和状态两个类，还有一个GameLoop类是作为整体的状态循环用的，使用非常简单。
+
 #### * [05_EventManagerSystem](https://github.com/linguoyuan/CodeLibrary/tree/master/05_EventManagerSystem)
  01_EventManager的简单消息管理类只是简单地解决了各层之间的消息传递问题，对于简单的应用场合是足够的，但是仍然有不完善的地方，
  第一个问题，如果有多个事件同时发生的话，那到底谁该先执行呢？所以还得引入事件队列。
