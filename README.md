@@ -23,3 +23,7 @@ unity自带的协程和Update都可以做延时，但这个延时类不依赖于
  相对麻烦点，因为在01_EventManager中是以广播的方式发送事件出去的，虽然也可以用判断事件传参的方式来区别开来，
  那能否在发送的时候就指定特定的物体能收到消息呢？当然是可以的，在事件的发送参数里专门定义一个事件目标接收源，
  就更加地清晰明了了。
+ 
+ #### * [06_NetEventFrame](https://github.com/linguoyuan/CodeLibrary/tree/master/06_NetEventFrame)
+ 05事件处理系统的变种应用，这里采用了队列+委托的方式来处理Websock网络消息，一个最小网络客户端模块。
+ 具备接收WebSocket消息，消息用XXTEA+Base64的方式进行加解密，采用Json解析。
