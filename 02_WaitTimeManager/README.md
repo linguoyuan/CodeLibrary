@@ -1,0 +1,1 @@
+unity自带的协程和Update都可以做延时，但这个延时类不依赖于Monobehaviour，在特定场合很有用处
