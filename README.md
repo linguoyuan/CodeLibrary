@@ -11,7 +11,7 @@
 
 
 #### * [03_实用工具类](https://github.com/linguoyuan/CodeLibrary/tree/master/03_ToolsHelper)
- * ##### [优化后物体组件查找](https://github.com/linguoyuan/CodeLibrary/blob/master/03_ToolsHelper/FindHelper.cs)
+ * ##### [(1)优化后物体组件查找](https://github.com/linguoyuan/CodeLibrary/blob/master/03_ToolsHelper/FindHelper.cs)
          
          
 #### * [04_小型有限状态机](https://github.com/linguoyuan/CodeLibrary/tree/master/04_StateMachine)
