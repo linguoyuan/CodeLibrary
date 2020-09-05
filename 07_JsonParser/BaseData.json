@@ -1,0 +1,88 @@
+{
+	"color": [
+		{
+			"name": "red",
+			"audio": "I_want_to_eat_something_red",
+			"pic": "/Art/food/color/LetterR_RedSplat.png"
+		},
+		{
+			"name": "yellow",
+			"audio": "I_want_to_eat_something_yellow",
+			"pic": "/Art/food/color/LetterY_YellowSplat.png"
+		},
+		{
+			"name": "green",
+			"audio": "I_want_to_eat_something_green",
+			"pic": "/Art/food/color/LetterG_GreenSplat.png"
+		},
+		{
+			"name": "purple",
+			"audio": "I_want_to_eat_something_purple",
+			"pic": "/Art/food/color/LetterP_PurpleSplat.png"
+		},
+		{
+			"name": "orange",
+			"audio": "I_want_to_eat_something_orange",
+			"pic": "/Art/food/color/LetterO_OrangeSplat.png"
+		},
+		{
+			"name": "black",
+			"audio": "I_want_to_eat_something_black",
+			"pic": "/Art/food/color/LetterB_BlackSplat.png"
+		},
+		{
+			"name": "pink",
+			"audio": "I_want_to_eat_something_pink",
+			"pic": "/Art/food/color/LetterP_PinkSplat.png"
+		},
+		{
+			"name": "brown",
+			"audio": "I_want_to_eat_something_brown",
+			"pic": "/Art/food/color/LetterB_BrownSplat.png"
+		},
+
+		{
+			"name": "white",
+			"audio": "I_want_to_eat_something_white",
+			"pic": "/Art/food/color/LetterW_whitesplat.png"
+		}
+	],
+	"types": [
+		{
+			"name": "fruit",
+			"audio": "Fruit_I_like_fruit",
+			"pic": "/Art/food/category/LetterF_Fruit.png"
+		},
+		{
+			"name": "drink",
+			"audio": "Drink_I_like_drink",
+			"pic": "/Art/food/category/LetterD_Drink.png"
+		},
+		{
+			"name": "vegetable",
+			"audio": "Vegetable_I_like_vegetable",
+			"pic": "/Art/food/category/LetterV_Vegetables.png"
+		},
+		{
+			"name": "food",
+			"audio": "Food_I_like_food",
+			"pic": "/Art/food/category/LetterF_Food.png"
+		}
+	],
+	"nums":
+	[
+	{"1":"one"},
+	{"2":"two"},
+	{"3":"three"},
+	{"4":"four"},
+	{"5":"five"}
+	],
+	"RandomAudios":
+        [
+        "They_are_yummy",
+        "I_like_them",
+        "They_are_delicious",
+        "A_wonderful_meal",
+        "They_are_tasty"
+        ]
+}
